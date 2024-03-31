@@ -1,0 +1,1 @@
+Contains examples (boiler plate, ...) for various machine learning (related) topics. The main goal is to be able to get "quickly" using these curated examples.
